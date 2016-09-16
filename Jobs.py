@@ -1,3 +1,10 @@
+'''
+Lawrence Liu and Jordan Chan
+SoftDev1 pd8
+HW#1 - Divine Your Destiny
+2016-9-16
+'''
+
 #!/usr/bin/python
 
 import random
